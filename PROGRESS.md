@@ -147,6 +147,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 \-Practiced creating classes and initializing objects using the __init__ method.
 
 \-Refactored the Coffee Machine Project using OOP concepts for better structure and readability.
+
 ---
 
 
