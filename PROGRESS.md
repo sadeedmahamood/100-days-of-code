@@ -150,9 +150,13 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 
 \## 🗓️ Day 17 – Quiz Game Project (OOP)
+
 \- Learned how to design programs using multiple classes.
+
 \- Implemented **Question**, **QuizBrain**, and data models.
+
 \- Practiced object interaction and method calling between classes.
+
 \- Built a complete **Quiz Game** using Object-Oriented Programming principles.
 
 
