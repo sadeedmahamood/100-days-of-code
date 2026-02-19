@@ -5,7 +5,7 @@ This repository documents my progress, projects, and challenges as I work throug
 
 ## 📆 Progress
 
-✅ Days Completed: 17 / 100  
+✅ Days Completed: 18 / 100  
 📚 Current Focus: Debugging and Error Handling  
 🎯 Goal: Strengthen my Python skills and build real-world projects using what I learn each day.
 
