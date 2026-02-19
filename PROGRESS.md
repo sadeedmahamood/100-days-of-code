@@ -160,6 +160,18 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 \- Built a complete **Quiz Game** using Object-Oriented Programming principles.
 
 
+## 🗓️ Day 18 – Turtle Graphics and GUI Programming
+
+\- Learned how to use the built-in `turtle` module in Python.
+
+\- Drew shapes and patterns using loops.
+
+\- Worked with RGB colors and random color generation.
+
+\- Built mini drawing projects using graphical output.
+
+\- Practiced controlling movement and direction programmatically.
+
 ---
 
 
