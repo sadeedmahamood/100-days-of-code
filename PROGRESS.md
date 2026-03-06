@@ -76,7 +76,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 
 
-\## 🗓️ Day 09 – Dictionaries, Nesting, and Secret Auction
+## 🗓️ Day 09 – Dictionaries, Nesting, and Secret Auction
 
 \- Practiced creating and nesting dictionaries and lists.
 
