@@ -10,7 +10,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 
 
-\## 🗓️ Day 01 – Working with Variables in Python
+## 🗓️ Day 01 – Working with Variables in Python
 
 \- Learned how to print, use variables, and take user input.
 
@@ -18,7 +18,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 
 
-\## 🗓️ Day 02 – Data Types and String Manipulation
+## 🗓️ Day 02 – Data Types and String Manipulation
 
 \- Covered data types: strings, integers, floats, and booleans.
 
@@ -28,7 +28,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 
 
-\## 🗓️ Day 03 – Control Flow and Logical Operators
+## 🗓️ Day 03 – Control Flow and Logical Operators
 
 \- Learned about if/else, comparison operators, and nested conditions.
 
@@ -36,7 +36,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 
 
-\## 🗓️ Day 04 – Randomisation and Python Lists
+## 🗓️ Day 04 – Randomisation and Python Lists
 
 \- Explored Python’s `random` module and list operations.
 
@@ -44,7 +44,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 
 
-\## 🗓️ Day 05 – Loops
+## 🗓️ Day 05 – Loops
 
 \- Practiced for-loops and range functions.
 
@@ -52,7 +52,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 
 
-\## 🗓️ Day 06 – Functions and Karel
+## 🗓️ Day 06 – Functions and Karel
 
 \- Learned how to define and call functions.
 
@@ -60,7 +60,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 
 
-\## 🗓️ Day 07 – Hangman Project
+## 🗓️ Day 07 – Hangman Project
 
 \- Applied loops, conditionals, and lists to build the classic \*\*Hangman Game\*\*.
 
@@ -68,7 +68,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 
 
-\## 🗓️ Day 08 – Function Parameters
+## 🗓️ Day 08 – Function Parameters
 
 \- Learned about parameters, arguments, and scope.
 
@@ -84,7 +84,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 
 
-\## 🗓️ Day 10 – Functions with Outputs
+## 🗓️ Day 10 – Functions with Outputs
 
 \- Learned how to return values from functions.
 
@@ -92,7 +92,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 
 
-\## 🗓️ Day 11 – Blackjack Project
+## 🗓️ Day 11 – Blackjack Project
 
 \- Built the \*\*Blackjack Game\*\* using functions and loops.
 
@@ -100,14 +100,14 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 
 
-\## 🗓️ Day 12 – Scope and Number Guessing Game
+## 🗓️ Day 12 – Scope and Number Guessing Game
 
 \- Studied local vs global scope in Python.
 
 \- Created a \*\*Number Guessing Game\*\* that gives hints and limits attempts.
 
 
-\## 🗓️ Day 13 – Debugging and Error Handling
+## 🗓️ Day 13 – Debugging and Error Handling
 
 \- Learned different types of Python errors and how to read error messages.
 
@@ -118,7 +118,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 \- Debugged previous projects and improved code reliability.
 
 
-\## 🗓️ Day 14 – Higher or Lower Game Project
+## 🗓️ Day 14 – Higher or Lower Game Project
 
 \- Revised how to use functions that return values.
   
@@ -129,7 +129,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 \- Applied concepts like scope, randomization, and modular programming.
 
 
-\## 🗓️ Day 15 – Local Development Environment & Coffee Machine Project
+## 🗓️ Day 15 – Local Development Environment & Coffee Machine Project
 
 \-Learned how Python modules work and how to structure multi-file programs.
 
@@ -138,7 +138,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 \-Built the Coffee Machine Program, simulating resources, coin insertion, and drink processing.
 
 
-\## 🗓️ Day 16 – Object-Oriented Programming (OOP)
+## 🗓️ Day 16 – Object-Oriented Programming (OOP)
 
 \-Learned the fundamentals of Object-Oriented Programming in Python.
 
@@ -149,7 +149,7 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 \-Refactored the Coffee Machine Project using OOP concepts for better structure and readability.
 
 
-\## 🗓️ Day 17 – Quiz Game Project (OOP)
+## 🗓️ Day 17 – Quiz Game Project (OOP)
 
 \- Learned how to design programs using multiple classes.
 
@@ -171,6 +171,19 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 \- Built mini drawing projects using graphical output.
 
 \- Practiced controlling movement and direction programmatically.
+
+
+## 🗓️ Day 19 – Turtle Race and Event Listeners
+
+\- Learned how to use keyboard event listeners with the turtle module.
+
+\- Built an interactive **Turtle Race Game** where the user bets on a turtle.
+
+\- Practiced handling user input and controlling turtle movement.
+
+\- Used loops and random movement to simulate a race.
+
+\- Improved understanding of event-driven programming in Python.
 
 ---
 
