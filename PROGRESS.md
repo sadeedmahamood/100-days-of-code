@@ -185,6 +185,20 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 
 \- Improved understanding of event-driven programming in Python.
 
+
+## 🗓️ Day 20 – Snake Game (Part 1)
+
+\- Started building the classic **Snake Game** using the turtle module.
+
+\- Applied Object-Oriented Programming to create a **Snake class**.
+
+\- Broke the project into multiple files for better structure.
+
+\- Implemented movement logic for the snake segments.
+
+\- Learned how to update the screen continuously using animation loops.
+
+
 ---
 
 
