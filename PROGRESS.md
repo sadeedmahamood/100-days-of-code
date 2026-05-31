@@ -199,6 +199,18 @@ This file contains my detailed daily progress for the \*\*100 Days of Code: Pyth
 \- Learned how to update the screen continuously using animation loops.
 
 
+## 🗓️ Day 21 – Snake Game (Part 2)
+
+\- Completed the Snake Game by adding food and scoring functionality.
+
+\- Implemented collision detection with walls and the snake's own body.
+
+\- Created a scoreboard to track the player's score.
+
+\- Added logic for snake growth whenever food is collected.
+
+\- Strengthened Object-Oriented Programming skills through a multi-file project.
+
 ---
 
 
